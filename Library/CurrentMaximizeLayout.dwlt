@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 275, y: 292}
   m_MaxSize: {x: 4000, y: 8042}
   vertical: 0
-  controlID: 9383
+  controlID: 507
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 275, y: 292}
   m_MaxSize: {x: 4000, y: 8042}
   vertical: 1
-  controlID: 9384
+  controlID: 508
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -197,7 +197,7 @@ MonoBehaviour:
   - {fileID: 10}
   - {fileID: 11}
   m_Selected: 4
-  m_LastSelected: 3
+  m_LastSelected: 5
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,9 +248,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1a3d0000
-    m_LastClickedID: 15642
-    m_ExpandedIDs: 00000000503c000000ca9a3b
+    m_SelectedIDs: 083e0000
+    m_LastClickedID: 15880
+    m_ExpandedIDs: 00000000ac3c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -278,7 +278,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000503c000000ca9a3b
+    m_ExpandedIDs: 00000000ac3c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -303,8 +303,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 1e3d0000
-    m_LastClickedInstanceID: 15646
+    m_SelectedInstanceIDs: 1c3e0000
+    m_LastClickedInstanceID: 15900
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300008e55000022420000dc410000f25a0000ae420000000000004c70000084580000
     m_RenameOverlay:
@@ -575,8 +575,8 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: 15646
-  m_LastVerticalScrollValue: 100
+  m_LastInspectedObjectInstanceID: 15900
+  m_LastVerticalScrollValue: 0
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -608,7 +608,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 
+      m_ExpandedIDs: 6af8ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
