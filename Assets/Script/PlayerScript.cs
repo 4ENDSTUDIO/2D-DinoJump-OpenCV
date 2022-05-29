@@ -11,10 +11,15 @@ public class PlayerScript : MonoBehaviour
     Rigidbody2D RB;
     bool isAlive = true;
     public Text ScoreText;
+    public GameObject GameOver;
     private void Awake()
     {
         RB = GetComponent<Rigidbody2D>();
         SCORE = 0;   
+    }
+    public void Start()
+    {
+        GameOver.SetActive(false);
     }
 
 
@@ -50,6 +55,7 @@ public class PlayerScript : MonoBehaviour
         {
             isAlive = false;
             Time.timeScale = 0;
+            GameOver.SetActive(true);
         }
 
     }

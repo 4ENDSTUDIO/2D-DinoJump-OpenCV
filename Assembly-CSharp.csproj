@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\PlayerScript.cs" />
+    <Compile Include="Assets\Script\SceneManagement.cs" />
     <Compile Include="Assets\Script\SpikeGenerator.cs" />
     <Compile Include="Assets\Script\SpikeScript.cs" />
   </ItemGroup>
